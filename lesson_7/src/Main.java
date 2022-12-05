@@ -10,6 +10,7 @@ public class Main {
             else {
                 System.out.println("The index of 30 is:"+i);
             }
+            
         }
     }
 }
